@@ -6,17 +6,12 @@
 ### 👋 Hi, I’m [@x1a02](https://github.com/x1a02)
 
 #### 🔍 **About Me**
-Cybersecurity enthusiast and coder focused on developing Command and Control (C2) systems. Passionate about learning and collaborating on innovative cybersecurity projects.
+I’m passionate about cybersecurity and coding, with a focus on developing C2 systems. I’m eager to learn and collaborate on innovative cybersecurity projects.
 
-#### 🌱 **Currently Learning**
-- Java
-- C
-- Domain Penetration Testing
-
-#### 🎯 **Interests**
-- Cybersecurity
-- Coding
-- Developing C2 systems
+#### 🌱 **Currently Learning & Interests**
+- **Programming Languages:** Java, C
+- **Security Focus:** Domain Penetration Testing, Developing C2 systems
+- **General Interests:** Cybersecurity, Coding
 
 #### 🤝 **Looking to Collaborate On**
 - Self-developed C2 projects
@@ -27,24 +22,7 @@ Cybersecurity enthusiast and coder focused on developing Command and Control (C2
 - **Email:** [Bnilyfenc@gmail.com](mailto:Bnilyfenc@gmail.com)
 
 #### 🎉 **Fun Facts**
-- Enjoy running and going to the gym regularly
-- Committed to maintaining a healthy lifestyle
-
----
-
-### 🛠️ **Skills & Tools**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-### 📈 **GitHub Stats**
-
-![x1a02's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1a02&show_icons=true&theme=radical)
+- I enjoy running and going to the gym regularly.
+- Committed to maintaining a healthy lifestyle.
 
 ---
