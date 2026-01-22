@@ -18,9 +18,6 @@ I’m passionate about cybersecurity and coding, with a focus on developing C2 s
 - Open-source cybersecurity tools
 - Penetration testing frameworks
 
-#### 📫 **Get in Touch**
-- **Email:** [Bnilyfenc@gmail.com](mailto:Bnilyfenc@gmail.com)
-
 #### 🎉 **Fun Facts**
 - I enjoy running and going to the gym regularly.
 - Committed to maintaining a healthy lifestyle.
